@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<h3 align="">💻 Tech Stack:</h3>
+<h3>💻 Tech Stack:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -18,10 +18,8 @@
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
 </p>
-</div>
 
-<div align="center">
-<h3 align="">📊 GitHub Stats:</h3>
+<h3>📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmadAzkia&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="AhmadAzkia's GitHub Stats"/>
   <br/>
