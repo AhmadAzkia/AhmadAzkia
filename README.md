@@ -40,18 +40,3 @@
 </details>
 
 <br/>
-
-<div align="center" style="animation: fadeIn 2.5s ease-in-out;">
-  [![](https://visitcount.itsvg.in/api?id=AhmadAzkia&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
-
-<style>
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-  @keyframes slideIn {
-    from { transform: translateY(20px); opacity: 0; }
-    to { transform: translateY(0); opacity: 1; }
-  }
-</style>
