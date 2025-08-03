@@ -3,9 +3,6 @@
   <p style="animation: fadeIn 1.5s ease-in-out;">A passionate developer from Indonesia. Welcome to my GitHub profile!</p>
 </div>
 
-<div align="center">
-  <img src="profile-3d-contrib/profile-tokyonight.svg" alt="3D Contribution Graph"/>
-</div>
 
 <div align="center" style="animation: fadeIn 2s ease-in-out;">
   <a href="https://instagram.com/ahmad_azkia">
