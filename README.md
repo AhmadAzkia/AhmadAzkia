@@ -1,8 +1,6 @@
 <div align="center">
-  
   <h1 style="animation: fadeIn 1s ease-in-out;">👋 Hi, I’m Ahmad Azkia</h1>
   <p style="animation: fadeIn 1.5s ease-in-out;">A passionate developer from Indonesia. Welcome to my GitHub profile!</p>
-
 </div>
 
 <div align="center">
@@ -10,20 +8,18 @@
 </div>
 
 <div align="center" style="animation: fadeIn 2s ease-in-out;">
-  
   <a href="https://instagram.com/ahmad_azkia">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:ahmadazkia5@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  
 </div>
 
 <br/>
 
 <details align="center" style="animation: slideIn 1s ease-out;">
-  <summary><h3>💻 Tech Stack</h3></summary>
+  <summary><h3 align="center">💻 Tech Stack</h3></summary>
   <p align="center">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -37,7 +33,7 @@
 </details>
 
 <details align="center" style="animation: slideIn 1.5s ease-out;">
-  <summary><h3>📊 GitHub Stats</h3></summary>
+  <summary><h3 align="center">📊 GitHub Stats</h3></summary>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=AhmadAzkia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="AhmadAzkia's GitHub Stats"/>
     <br/>
@@ -49,9 +45,7 @@
 <br/>
 
 <div align="center" style="animation: fadeIn 2.5s ease-in-out;">
-
   [![](https://visitcount.itsvg.in/api?id=AhmadAzkia&icon=0&color=0)](https://visitcount.itsvg.in)
-
 </div>
 
 <style>
@@ -59,7 +53,6 @@
     from { opacity: 0; }
     to { opacity: 1; }
   }
-
   @keyframes slideIn {
     from { transform: translateY(20px); opacity: 0; }
     to { transform: translateY(0); opacity: 1; }
