@@ -3,16 +3,6 @@
   <p style="animation: fadeIn 1.5s ease-in-out;">A passionate developer from Indonesia. Welcome to my GitHub profile!</p>
 </div>
 
-
-<div align="center" style="animation: fadeIn 2s ease-in-out;">
-  <a href="https://instagram.com/ahmad_azkia">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:ahmadazkia5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
 <br/>
 
 <details align="center" style="animation: slideIn 1s ease-out;">
